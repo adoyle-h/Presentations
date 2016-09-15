@@ -4,6 +4,8 @@
 
 - [Intro Docker](https://swipe.to/1555cv)
 - [理解 Gitflow](https://swipe.to/8484p)
+- [Intro Scrum](https://gist.github.com/adoyle-h/fdddf8527716d09f5715)
+- [BDD in NodeJS](./BDD-in-NodeJS.md)
 
 ## Issue
 
