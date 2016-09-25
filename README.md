@@ -6,6 +6,7 @@
 - [理解 Gitflow](https://swipe.to/8484p)
 - [Intro Scrum](https://gist.github.com/adoyle-h/fdddf8527716d09f5715)
 - [BDD in NodeJS](./BDD-in-NodeJS.md)
+- [JS 漫谈](http://slides.com/adoyle_h/xia-che-dan)
 
 ## Issue
 
