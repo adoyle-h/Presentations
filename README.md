@@ -1,4 +1,4 @@
-## Presentations
+# Presentations
 
 我的公开分享，幻灯片以及演讲大纲
 
@@ -10,4 +10,16 @@
 
 ## Issue
 
-如果你想发表意见或者建议，请通过 issue 与我交流。
+如果你想发表意见或者建议，请通过 [Issue][] 与我交流。
+
+## 版权声明
+
+Copyright (c) 2016-2017 ADoyle. The project is licensed under the **BSD 3-clause License**.
+
+See the [LICENSE][] file for the specific language governing permissions and limitations under the License.
+
+
+<!-- links -->
+
+[Issue]: https://github.com/adoyle-h/Presentations/issues
+[LICENSE]: ./LICENSE
